@@ -1,7 +1,7 @@
 ## Hey 👋, This Makida Abebe
-makidabebe@gmail.com
-linkedin.com/in/makida-abebe
-https://github.com/makida-abebe
+[![Gmail Badge](makidabebe@gmail.com)
+[![Linkedin Badge](linkedin.com/in/makida-abebe)
+[![Github Badge](https://github.com/makida-abebe)
 I am an aspiring Business Intelligence Analyst with technical project experience from my training at TripleTen's Business Intelligence Analytics Bootcamp. Eager to join data analysts everywhere, I thrive on exploring large datasets to unearth hidden insights. I excel at addressing complex business questions with clear, approachable solutions. My skills include data cleaning and exploration using Excel and Google Sheets, as well as proficiency in SQL, Tableau, and Power BI. I am passionate about business analytics, data visualization, and storytelling.
 
 More About Me
